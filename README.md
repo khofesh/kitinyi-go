@@ -1,6 +1,6 @@
 # kitinyi-go
 
-kitinyi rewritten in golang.
+kitinyi (https://github.com/lantip/kitinyi) rewritten in golang.
 
 # How to
 
